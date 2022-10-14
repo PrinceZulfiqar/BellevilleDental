@@ -1,0 +1,12 @@
+
+.app-box{
+    text-align: center;
+    box-shadow: 0 0 20px rgba(128, 12, 89, 0.15);
+    border-radius: 25px;
+    padding: 20px;
+}
+.app-box .p1{
+    font-size: 28px;
+    font-weight: 700;
+    color: #797D8A;
+}
